@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple reverse polish notation calculator written in ReactJS
+
+![React calculator](screenshot.png?raw=true "React calculator")
 
 ## Available Scripts
 
