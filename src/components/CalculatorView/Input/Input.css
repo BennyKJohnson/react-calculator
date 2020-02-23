@@ -1,0 +1,22 @@
+.input-wrapper {
+    height: 5em;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+    padding: 0.5em;
+    outline: 1px solid #888888;
+}
+
+.input-detailed-label {
+    display: flex;
+    font-size: 1em;
+    justify-content: flex-end;
+}
+
+.input-label {
+    display: flex;
+    font-weight: normal;
+    justify-content: flex-end;
+    font-size: 3vw;
+}

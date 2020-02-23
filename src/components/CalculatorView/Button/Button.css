@@ -1,0 +1,25 @@
+.button-wrapper {
+    height: 4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: lighter;
+    font-size: 1.4em;
+    background-color: #e0e1e6;
+    flex: 1;
+    outline: 1px solid #888;
+}
+
+.button-oversized {
+    flex-grow: 2;
+}
+
+.operator-button {
+    background-color: #fe9241;
+    color: white;
+}
+
+.function-button {
+    background-color: #505050;
+    color: white;
+}
